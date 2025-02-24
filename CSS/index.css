@@ -1,0 +1,27 @@
+body{
+	background-color: DarkSlateGray;
+}
+h1{
+	font-family: "Lucida Handwriting", verdana;
+	font-size: 100px;
+	color: Cornsilk;
+	text-align: center;
+}
+h2{
+	font-family: "Lucida Handwriting", verdana;
+	font-size: 60px;
+	color: Cornsilk;
+	text-align: center;
+}
+h3{
+	font-family: "Lucida Handwriting", verdana;
+	font-size: 40px;
+	color: Cornsilk;
+	text-align: center;
+}
+.flex-container{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+
