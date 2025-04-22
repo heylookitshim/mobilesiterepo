@@ -1,0 +1,37 @@
+body{
+	background-color: DarkGreen;
+}
+h1{
+	font-size: 9vw;
+	font-family: "Garamond", serif;
+	color: LightGreen;
+	text-align: center;
+}
+h2{
+	font-family: "Garamond", serif;
+	font-size: 2.5vw;
+	color: Lightgreen;
+	text-align: center;
+}
+
+.flex-container{
+	justify-content: flex-start;
+	display: flex;
+	padding: 2vw;
+}
+.flex-container2{
+	display: flex;
+	justify-content: flex-end;
+	flex-flow: row;
+	padding: 2vw;
+}
+img{
+	max-width: 45%;
+	height:auto;
+}
+a{
+	font-family: "Garamond", serif;
+	font-size: 4vw;
+	color: LightGreen;
+	text-align: center;
+}
